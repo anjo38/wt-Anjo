@@ -1,0 +1,27 @@
+h1{
+    border:3px solid blue;
+    display:inline;
+}
+h2{
+    background-color:black;
+    color:white;
+    display:inline;
+}
+p{
+    color:brown;
+}
+.section1 p{
+    font-style:italic;
+}
+.section2 p{
+    font-style:italic;
+}
+.section3 p{
+    font-style:italic;
+}
+div{
+    font-size:20px;
+}
+.footer{
+    font-style:normal;
+}
